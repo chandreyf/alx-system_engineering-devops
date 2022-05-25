@@ -1,1 +1,1 @@
-#!bin/bash\necho"current working directory"
+!#bin/bash\necho"pwd"
